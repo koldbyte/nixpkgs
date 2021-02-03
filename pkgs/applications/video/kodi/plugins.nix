@@ -408,7 +408,7 @@ let self = rec {
 
     plugin = "pvr-iptvsimple";
     namespace = "pvr.iptvsimple";
-    version = "3.5.7";
+    version = "3.10.0";
 
     src = fetchFromGitHub {
       owner = "kodi-pvr";
